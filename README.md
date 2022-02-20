@@ -1,4 +1,4 @@
-# organizacionDeComputador
+# Trabajo practico (+ resumen de la materia para la practica)
 
 
 En este informe tenemos como objetivo desarrollar un programa el cual implementará el algoritmo de Euclides sobre una cantidad arbitraria de pares de números, con el fin de familiarizarnos con el conjunto de instrucciones MIPS y el concepto de ABI.
